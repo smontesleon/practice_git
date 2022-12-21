@@ -1,2 +1,2 @@
-# pracice_git
+# practice_git
 practice git coursera
